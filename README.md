@@ -1,2 +1,2 @@
 # hello-world
-Just my first repositpry
+Just my first repository
